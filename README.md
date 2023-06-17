@@ -38,14 +38,9 @@
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=crowwan&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
 </div>
 <div align='left'>
@@ -53,7 +48,6 @@
   ### 🛠️TOOLS🛠️
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>
   
 </div>
   
@@ -66,7 +60,7 @@
  ### 📝Algorithm📝
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=crowwan)](https://solved.ac/crowwan)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=crowlast)](https://solved.ac/crowlast)
   
  </div>
  
